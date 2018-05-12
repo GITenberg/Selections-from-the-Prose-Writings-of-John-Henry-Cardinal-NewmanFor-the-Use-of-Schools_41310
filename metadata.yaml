@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8264
     wikipedia: http://en.wikipedia.org/wiki/John_Henry_Newman
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41310#Selections-from-the-Prose-Writings-of-John-Henry-Cardinal-NewmanFor-the-Use-of-Schools
 gutenberg_issued: '2012-11-07'
 gutenberg_type: Text
 identifiers:
