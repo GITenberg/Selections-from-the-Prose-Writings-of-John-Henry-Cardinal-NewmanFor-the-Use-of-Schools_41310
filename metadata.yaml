@@ -1,0 +1,39 @@
+_repo: Selections-from-the-Prose-Writings-of-John-Henry-Cardinal-NewmanFor-the-Use-of-Schools_41310
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41310-h/images/i_cover.jpg
+creator:
+  author:
+    agent_name: Newman, John Henry
+    aliases:
+    - Newman, J. H. (John Henry)
+    - Newman, John Henry, Cardinal
+    birthdate: 1801
+    deathdate: 1890
+    gutenberg_agent_id: '8264'
+    url: http://www.gutenberg.org/2009/agents/8264
+    wikipedia: http://en.wikipedia.org/wiki/John_Henry_Newman
+description: ''
+gutenberg_issued: '2012-11-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41310'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'English essays -- 19th century'
+tableOfContents: 'Character sketches: Saul. Early years of David. Basil and Gregory.
+  Augustine and the Vandals. Chrysostom -- The Turk: The Tartar and the Turk. The
+  Turk and the Saracen. The past and the present of the Ottomans -- Universities:
+  What is a university? University life-- Athens. Supply and demand-- the schoolmen.
+  The strength and weakness of universities-- Abelard -- Miscellaneous: Poetry, with
+  reference to Aristotle''s poetics. The infinitude of the divine attributes. Christ
+  upon the waters. The second spring. St. Paul''s characteristic gift.'
+title: 'Selections from the Prose Writings of John Henry Cardinal Newman
+
+  For the Use of Schools'
+url: http://www.gutenberg.org/ebooks/41310
